@@ -9,3 +9,5 @@ cat * | grep -i linia
 7- cat demo.txt | grep linia.*blanc
 
 8- cat demo.txt | grep Linia.*Totes
+
+9- cat demo.txt | grep -c linia
