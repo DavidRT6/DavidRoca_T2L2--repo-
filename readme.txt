@@ -12,4 +12,4 @@ cat * | grep -i linia
 
 9- cat demo.txt | grep -c linia
 
-10- cat -n demo.txt | grep -c linia
+10- cat -n demo.txt | grep linia
